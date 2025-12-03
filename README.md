@@ -54,7 +54,7 @@
 
 Connect the ESP32-CAM to the FTDI programmer as shown below:
 
-<img width="760" height="565" alt="Screenshot 2025-12-02 180203" src="https://github.com/user-attachments/assets/7b0173fc-1157-4712-849c-521cabb0e793" />
+<img width="499" height="414" alt="diag" src="https://github.com/user-attachments/assets/d70825c0-afc1-4dd8-9f29-af9610753497" />
 
 ### Connection Table
 
